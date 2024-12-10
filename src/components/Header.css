@@ -1,0 +1,15 @@
+.theHeader{
+    position: sticky;
+    z-index:100;
+    top: 0;
+    background-color: white;
+    padding: 20px;
+    
+}
+
+header a{
+    margin: 10px;
+    text-underline-offset: 5px;
+    color: rgb(31, 57, 31)
+    
+}
